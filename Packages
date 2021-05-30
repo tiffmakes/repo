@@ -1,7 +1,7 @@
 Package: com.supermamon.newpackage
 Version: 2.0.0-1
 Section: Tweaks
-Maintainer: Reposi3 <reposithree@gmail.com>
+Maintainer: Tiff Makes <contact@tifflai.com>
 Depends: firmware (>7.0), mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/com.supermamon.newpackage_2.0.0-1_iphoneos-arm.deb
@@ -15,7 +15,7 @@ Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.new
 Package: com.supermamon.oldpackage
 Version: 1.0.0-1
 Section: Tweaks
-Maintainer: Reposi3 <reposithree@gmail.com>
+Maintainer: Tiff Makes <contact@tifflai.com>
 Depends: firmware (<7.0)
 Architecture: iphoneos-arm
 Filename: ./debs/com.supermamon.oldpackage_1.0.0-1_iphoneos-arm.deb
