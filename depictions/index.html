@@ -25,7 +25,7 @@
 			contentBlocks,
 			() => {
                 $("#packageError").show();
-				$("#packageInformation").hide();				
+				$("#packageInformation").hide();
 			},
 			(xml) => {
 				document.title = $(xml).find("package>name").text();
@@ -80,7 +80,7 @@
 <div id="packageError" style="display:none">
 	<div class="container">
 	  <div class="alert alert-danger">
-		<strong>Oh snap!</strong> The package you are trying to view is not hosted on this repository.
+		<strong>Oh snap!</strong> Something went wrong.
 	  </div>
 	</div>
 </div>
