@@ -1,0 +1,14 @@
+Package: com.tiffmakes.tranquilglyphs
+Version: 1.0
+Section: Themes
+Maintainer: Tiff Makes <contact@tifflai.com>
+Depends: firmware (>7.0), mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/TranquilGlyphs.deb
+Size: 854
+Description: This is a sample new package. Firmware should be greater than 7.0
+Name: Tranquil Glyphs
+Author: Tiff Makes <contact@tifflai.com>
+MD5sum: 0f0e8ea571a23470ab3c5f602daa3b4b
+SHA1: 9c0517c8b60d1c6d8cda47f90a079528e5e7e98a
+SHA256: 04fda15a92bc121c838204d25c107c20bae5df90fe78af8d2045355a9ff51cbb
