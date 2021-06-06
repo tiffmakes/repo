@@ -1,0 +1,31 @@
+Package: com.tiffmakes.tranquilglyphs
+Version: 1.0
+Section: Themes
+Maintainer: Tiff Makes <contact@tifflai.com>
+Depends: firmware (>7.0), mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/TranquilGlyphs.deb
+Size: 561502
+Description: This is a sample new package. Firmware should be greater than 7.0
+Name: Tranquil Glyphs
+Author: Tiff Makes <contact@tifflai.com>
+MD5sum: 0f0e8ea571a23470ab3c5f602daa3b4b
+SHA1: d473742d4ae434c9b7f45174050d2119bd8a1504
+SHA256: c5cf343534e0de9fcf0bcd41423ecc5e9b10107e3618e854f63252433463aee2
+SHA512: 7d29280f7eb9496f1cf22387b6977d89b54f62821a01ee7558d5bf177285cc503a11600c7e71d23901f0cf5feb68f46c4858a5a30e1f3380ee38bba5b21f3833
+
+Package: com.tiffmakes.tranquilstickers
+Version: 1.0
+Section: Themes
+Maintainer: Tiff Makes <contact@tifflai.com>
+Depends: firmware (>7.0), mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/TranquilStickers.deb
+Size: 1060202
+Description: A tranquil sticker theme.
+Name: Tranquil Stickers
+Author: Tiff Makes <contact@tifflai.com>
+MD5sum: 3782402bf2458c22ad682d87ce4cbecc
+SHA1: b23f079d153f2ac3b4615ac279761372f1dbb08f
+SHA256: c99bc70ae8e130a710dc7a19e8d5168171a245f774552608e3a8fa8e9dd99fdc
+SHA512: fcf099903c1b60e65dbb19bb9b633c28c2aa401384279c549216056a49fe8ac21efdb83bef99a52058a9401edf85f1356fae2d8af4fce9970a7521730bb54a1a
