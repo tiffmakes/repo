@@ -1,0 +1,16 @@
+Package: com.tiffmakes.tranquil
+Version: 1.0
+Section: Themes
+Maintainer: Tiff Makes <contact@tifflai.com>
+Depends: firmware (>7.0), mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/Tranquil-v2.deb
+Size: 1928916
+Description: A calm, beautiful glyph theme. Designed to look like stock iOS icons, Tranquil Glyphs has a cohesive color palette and a tranquil feeling for your phone.
+Name: Tranquil
+Author: Tiff Makes <contact@tifflai.com>
+MD5sum: 3b55f670eccfd55e2c7c3a6e5e2dc743
+SHA1: 4977d3be6cde02e9b6b30bdd4631422b2908c3cb
+SHA256: 132c23938ea042e8f08deb0773d9ab6c8a755d9f1483fea5668f7a10fbdee40d
+SHA512: fc235c1fca8850bea388fd87bd5f96c9634223ad1709ecaeafd68624c4ab27dcd030e9532436c03543db88ed910a6a68eb9933feff077c1b5525d56933c8cd17
+Depiction: https://tiffmakes.github.io/repo/depictions/?p=com.tiffmakes.tranquil
