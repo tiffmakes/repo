@@ -24,7 +24,7 @@
 			contentBlocks,
 			() => {
         $("#packageError").show();
-				$("#packageInformation").hide();				
+				$("#packageInformation").hide();
 			},
 			(xml) => {
 				document.title = $(xml).find("package>name").text();
@@ -44,14 +44,14 @@
 <div id="packageError" style="display:none">
 	<div class="container">
 	  <div class="alert alert-danger">
-		<strong>Oh snap!</strong> The package you are trying to view is not hosted on this repository. 
+		<strong>Oh snap!</strong> The package you are trying to view is not hosted on this repository.
 	  </div>
 	</div>
 </div>
 <!-- REPO FOOTER -->
 <script type="text/javascript">
     var repoContents =  {
-        "#repoFooterLinks" : 
+        "#repoFooterLinks" :
             {"type":"custom"
                 ,"source":"repo>footerlinks>link"
                 ,"render":function(element,source) {
@@ -63,7 +63,7 @@
                             i.attr("class",$(data).find('iconclass').text());
                             console.log(i);
                             $(a).append(i);
-                        } 
+                        }
                         $(a).append($(data).find('name').text());
                         $(element).append(a);
                     }); //each
@@ -84,15 +84,15 @@
 
             error: function() {$("#contactInfo").hide()}
         }); //ajax
-		
-		
+
+
     }); // ready
 
 </script>
 
 <div id="contactInfo">
 	<div class="container">
-		<h5>CONTACT</h5>
+		<h5>Contact</h5>
 		<ul class="list-group" id="repoFooterLinks">
 		</ul>
 	</div>
