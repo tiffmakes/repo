@@ -2,8 +2,7 @@
 	<footerlinks>
 		<link>
 			<name>Request an icon</name>
-			<url>https://twitter.com/reposi3</url>
-			<iconclass>fa fa-mail</iconclass>
+			<url>mailto:contact@tifflai.com</url>
 		</link>
 	</footerlinks>
 </repo>
